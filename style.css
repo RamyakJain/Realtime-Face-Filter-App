@@ -14,3 +14,6 @@ canvas{
     from{box-shadow: 1px 1px 38px red;}
     to{box-shadow: 1px 1px 38px yellow;}
 }
+body{
+    font-family: 'Nerko One', cursive;
+}
